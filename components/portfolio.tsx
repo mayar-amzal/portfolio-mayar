@@ -14,7 +14,7 @@ const projects = [
     video: '/videos/djezzy.mp4',
   },
   {
-    title: 'Hadmade',
+    title: 'Handmade',
     type: 'E-commerce',
     description:
       'Une boutique en ligne chaleureuse pensée pour valoriser des créations faites avec soin.',
