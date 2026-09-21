@@ -118,7 +118,7 @@ export function Portfolio() {
         <div className="hero-copy">
           <p className="eyebrow">
             <span className="eyebrow-dot" />
-            Développeuse web & web designer · Algérie
+            Développeuse web & web designer · 
           </p>
 
           <h1>
