@@ -300,7 +300,7 @@ export function Portfolio() {
           className="contact-mail"
           href="mailto:votre-email@exemple.com"
         >
-          mayaramzal@gmail.com
+          mayar@evo-agency.com
           <ArrowUpRight size={22} />
         </a>
 
